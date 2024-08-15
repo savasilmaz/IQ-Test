@@ -34,3 +34,9 @@ The test is structured so that each question increases in difficulty, providing 
 5. **Clock Hands Overlap:**
    - Tests conceptual understanding of time and movement.
    - Example: How many times do the hour and minute hands of a clock overlap in a day?
+
+**Contact**
+For any questions or feedback, please reach out to me at:
+
+Email: musabalta00@gmail.com
+GitHub: savasilmaz
